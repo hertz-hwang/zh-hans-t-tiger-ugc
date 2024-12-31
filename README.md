@@ -21,3 +21,18 @@ octagram:
         max_homographs: 1
 
 ```
+
+## 效果参考
+
+### 关闭语言模型
+![0-1](./assets/0-1.png)
+![0-2](./assets/0-2.png)
+![0-3](./assets/0-3.png)
+![0-4](./assets/0-4.png)
+
+### 开启语言模型
+![1-1](./assets/1-1.png)
+![1-2](./assets/1-2.png)
+![1-3](./assets/1-3.png)
+![1-4](./assets/1-4.png)
+
