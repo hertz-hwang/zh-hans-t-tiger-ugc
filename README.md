@@ -1,6 +1,7 @@
 ## Example
 
 ```yaml
+__include: /octagram/enable_for_tiger
 octagram:
   disable: # 禁用octagram
     __patch:
